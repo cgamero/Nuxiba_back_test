@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|solutionrelative:controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|solutionrelative:controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|solutionrelative:services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\dtos\\updatelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641120FD-FCCC-4063-8DDF-A720E088B86C}|TestBackNuxiba.csproj|solutionrelative:dtos\\updatelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|c:\\users\\escag\\onedrive\\nuxiba\\testdevbackmiddle\\testbacknuxiba\\dtos\\loginreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0CB56-2735-9D98-D7CA-C46C62F525FA}|TestBackNuxiba.csproj|solutionrelative:dtos\\loginreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\DTOs\\UpdateLoginDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UpdateLoginDto.cs",
-              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\DTOs\\UpdateLoginDto.cs",
-              "RelativeToolTip": "DTOs\\UpdateLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T22:51:55.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginsController.cs",
               "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Controllers\\LoginsController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginsController.cs",
               "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Controllers\\LoginsController.cs",
               "RelativeToolTip": "Controllers\\LoginsController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAA6wGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwGsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T22:28:42.113Z",
+              "WhenOpened": "2026-08-28T04:35:33.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\LoginService.cs",
-              "RelativeDocumentMoniker": "Services\\LoginService.cs",
-              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\LoginService.cs",
-              "RelativeToolTip": "Services\\LoginService.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAowI8AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T22:24:08.813Z",
+              "WhenOpened": "2026-08-28T04:34:41.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\ILoginService.cs",
-              "RelativeDocumentMoniker": "Services\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\ILoginService.cs",
-              "RelativeToolTip": "Services\\ILoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T22:22:16.01Z",
+              "WhenOpened": "2026-08-28T04:33:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAawF8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T04:30:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\DTOs\\LoginReportDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginReportDto.cs",
+              "ToolTip": "C:\\Users\\escag\\OneDrive\\NUXIBA\\TestDevBackMiddle\\TestBackNuxiba\\DTOs\\LoginReportDto.cs",
+              "RelativeToolTip": "DTOs\\LoginReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T04:28:48.191Z",
               "EditorCaption": ""
             }
           ]

@@ -109,6 +109,18 @@
         }
       }
     },
+    "/logins/report": {
+      "get": {
+        "tags": [
+          "Logins"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [

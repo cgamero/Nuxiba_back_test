@@ -9,10 +9,12 @@ namespace TestBackNuxiba.Controllers;
 public class LoginsController : ControllerBase
 {
     private readonly ILoginService _loginService;
+    private readonly IReportService _reportService;
 
-    public LoginsController(ILoginService loginService)
+    public LoginsController(ILoginService loginService, IReportService reportService)
     {
         _loginService = loginService;
+        _reportService = reportService;
     }
 
     [HttpGet]
@@ -100,5 +102,16 @@ public class LoginsController : ControllerBase
         }
 
         return NoContent();
+    }
+
+    [HttpGet("report")]
+    public async Task<IActionResult> GenerateReport()
+    {
+        var csv = await _reportService.GenerateLoginReportAsync();
+
+        return File(
+            csv,
+            "text/csv",
+            "login-report.csv");
     }
 }

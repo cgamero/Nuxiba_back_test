@@ -13,6 +13,7 @@ builder.Services.AddDbContext<CCenterDbContext>(options =>
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<ILoginService, LoginService>();
+builder.Services.AddScoped<IReportService, ReportService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

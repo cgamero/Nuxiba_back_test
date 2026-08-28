@@ -63,6 +63,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TestBackNuxiba.Controllers.LoginsController",
+    "Method": "GenerateReport",
+    "RelativePath": "logins/report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TestBackNuxiba.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
