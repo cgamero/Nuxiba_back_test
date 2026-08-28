@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestBackNuxiba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcaadbc620c2c7c9a26fbcfde27bf13e9c84922e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6faf1545cf15d5296a1bfc671bbfd67b25a00092")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestBackNuxiba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestBackNuxiba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
